@@ -5,4 +5,4 @@ title: ¡Bienvenido mi sumario de proyectos de inteligencia artificial!
 así que siéntete libre de navegar a través de los diferentes proyectos que tengo publicados y comentados, si tienes alguna duda
 o motivo por el cual contactarme puedes hacerlo.
 
-<a class="link" href="proyectos/proyecto1/index.html">Linear Regression</a>
+<a class="link" href="proyectos/proyecto1/Ejercicio_LinearRegression.html">Linear Regression</a>
