@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: ¡Bienvenido mi sumario de proyectos de inteligencia artificial!
 ---
-Bien, este debería de ser el contenido de la pagina, la home page
+Soy Armando Rodríguez, si estás aquí es porque estas interesado en la inteligencia artificial o en mi perfil académico o laboral,
+así que siéntete libre de navegar a través de los diferentes proyectos que tengo publicados y comentados, si tienes alguna duda
+o motivo por el cual contactarme siente libre de hacerlo.
